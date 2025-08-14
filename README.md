@@ -75,14 +75,4 @@ It has been **tested on Kali Linux** but can work on other Linux distributions.
 
 ---
 
-## 📦 Installation
 
-**Prerequisites:**
-- Python 3.8+
-- Nmap installed (`sudo apt install nmap` on Debian/Ubuntu/Kali)
-
-**Steps:**
-```bash
-git clone https://github.com/yourusername/projectname.git
-cd projectname
-pip install -r requirements.txt
